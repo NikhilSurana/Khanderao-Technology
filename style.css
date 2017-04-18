@@ -1,0 +1,180 @@
+header{
+	background-color: black;
+	height: 40px;
+	width: 100%;
+}
+
+.logo{
+	float: left;
+	height: 100%;
+	text-align: center;
+	width: 30%;
+}
+
+.logo-text{
+	font-family: 'Monotype Cursiva';
+	font-size: 35px;
+	color: #a19e9d;
+}
+
+.menu{
+	height: 100%;
+}
+
+.menu-list{
+	list-style-type: none;
+	float: right;
+}
+
+.menu-list > li{
+	float: left;
+	padding: 10px;
+	font-size: 19px;
+}
+
+a{
+	text-decoration: none;
+	color: #a19e9d;
+}
+
+.services{
+	margin: 0 auto;
+	margin-top: 10px;
+	background: url("http://malbecho.net/cart/php/store/static_uploads/product_bg.jpg") no-repeat scroll 0px 0px / 100% 100% transparent !important;
+	position: relative;
+	padding-bottom: 10px;
+}
+
+.service-heading{
+	font-size: 35px;
+	font-family: 'Monotype Cursiva';
+	color: #3122a2;
+	margin-left: 20px;
+	padding: 15px 0px 15px 0px;
+}
+
+.services-1{
+	width: 22%;
+    padding: 11px;
+    margin-left: 9px;
+	display: inline-block;
+	margin-bottom: 25px;
+}
+
+.services-1 > img{
+	height: 224px;
+	width: 300px;
+}
+
+.img-text{
+	height: 50px;
+	background-color: black;
+}
+
+h3{
+	color: white;
+	font-size: 21px;
+	text-align: center;
+}
+
+.hdd-recovery{
+	margin: 0px 10px 10px 17px;
+	position: relative;
+    overflow: hidden;
+    height: 250px;
+}
+
+.hdd-recovery > img{
+	position: absolute;
+    left: 0;
+    top: 0;
+    width: 98%;
+    height: auto;
+    opacity: 0.6;
+}
+
+.hdd-recovery > h2{
+ 	padding: 102px;
+    position: relative;
+    z-index: 2;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+/* About Us */
+
+.about_us_containt > h1{
+	font-size: 55px;
+	font-family: 'Monotype Cursiva';
+	padding: 25px 100px 25px 250px;
+	color: red;
+}
+
+.about_us_containt{
+	background: radial-gradient( cyan, white);
+}
+
+.about_us_text{
+	margin: 0 auto;
+	padding: 10px;
+	width: 60%;
+}
+
+.about_us_text > p{
+	font-size: 20px;
+	line-height: 1.5;
+	display: inline-block;
+}
+.our-team{
+	margin: 50px;
+	width: 100%;
+	display: inline-block;
+}
+.our-team > h1{
+	font-family: 'Monotype Cursiva';
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.team-member-1{
+	float: left;
+	width: 40%;
+	line-height: 1.5;
+	margin: 20px 56px 0px 60px;
+}
+
+.team-member-2{
+	float: right;
+	position: relative;
+}
+
+/* Contact Us */
+.contact-us{
+	padding: 20px;
+}
+
+.contact-us > h1{
+	font-size: 30px;
+	font-family: 'Monotype Cursiva';
+	text-align: center;
+	font-weight: bold;
+}
+
+.map{
+	float: left;
+}
+
+.address{
+	float: right;
+	width: 38%;
+	color: white;
+ 	height: 600px;
+	background: radial-gradient( #B260C4, #75008F);
+	line-height: 1.6;
+}
+
+.address > div{
+	padding: 153px 30px 69px 87px;
+	font-size: 25px;
+}
