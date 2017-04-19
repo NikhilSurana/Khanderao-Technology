@@ -7,21 +7,20 @@
 
 @media only screen and (max-width: 500px){
 	.services-1{
-		width: 40%;
-		padding: 10px;
-		font-size: 20px;
-		margin-bottom: 14px;
+		width: 80%;
+		padding: 0px 26px;
 	}
 	.services-1 > img{
-		height: 123px;
-		width: 192px;
+		width: 321px;
 	}
-
 	.img-text > h3{
 		font-size: 19px;
 	}
+	.hdd-recovery{
+		margin: 0px 0px 0px 20px;
+	}
 	.hdd-recovery > h2{
-		padding: 42px;
+		padding: 35px 35px 35px 8px;
 		font-size: 25px;
 	}
 
