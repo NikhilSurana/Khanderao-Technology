@@ -1,0 +1,69 @@
+@media only screen and (max-width: 500px){
+    .menu-list > li{
+        padding: 9px 7px;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+	.services-1{
+		width: 40%;
+		padding: 10px;
+		font-size: 20px;
+		margin-bottom: 14px;
+	}
+	.services-1 > img{
+		height: 123px;
+		width: 192px;
+	}
+
+	.img-text > h3{
+		font-size: 19px;
+	}
+	.hdd-recovery > h2{
+		padding: 42px;
+		font-size: 25px;
+	}
+
+	.hdd-recovery > img{
+		width: 93%;
+	}
+
+	.about_us_containt > h1{
+		font-size: 30px;
+		padding: 0px;
+	}
+
+	.about_us_text{
+		margin-top: 10;
+		width: 100%;
+		font-size: 15px;
+	}
+
+	.our-team {
+    	margin: 10px;
+    	width: 100%;
+	}
+	.team-member-1{
+		width: 100%;
+	}
+
+	.map{
+		width: 100%;
+	}
+
+	.map > iframe{
+		width: 453px;
+		height: 330px;
+	}
+	.address{
+		width: 100%;
+		height: 230px;
+		margin-top: 10px;
+	}
+
+	.address > div{
+		padding: 10px;
+		font-size: 18px;
+	}
+}

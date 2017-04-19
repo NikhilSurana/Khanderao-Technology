@@ -14,7 +14,7 @@ header{
 .logo-text{
 	font-family: 'Monotype Cursiva';
 	font-size: 35px;
-	color: #a19e9d;
+	color: #fff;
 }
 
 .menu{
@@ -34,7 +34,7 @@ header{
 
 a{
 	text-decoration: none;
-	color: #a19e9d;
+	color: #fff;
 }
 
 .services{
@@ -67,7 +67,7 @@ a{
 }
 
 .img-text{
-	height: 50px;
+	
 	background-color: black;
 }
 
@@ -81,7 +81,7 @@ h3{
 	margin: 0px 10px 10px 17px;
 	position: relative;
     overflow: hidden;
-    height: 250px;
+    height: auto;
 }
 
 .hdd-recovery > img{
@@ -128,7 +128,7 @@ h3{
 }
 .our-team{
 	margin: 50px;
-	width: 100%;
+	width: 92%;
 	display: inline-block;
 }
 .our-team > h1{
@@ -139,7 +139,7 @@ h3{
 
 .team-member-1{
 	float: left;
-	width: 40%;
+	width: 20%;
 	line-height: 1.5;
 	margin: 20px 56px 0px 60px;
 }
