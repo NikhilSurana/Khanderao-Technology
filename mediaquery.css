@@ -32,17 +32,18 @@
 	}
 
 	.about_us_text{
-		margin-top: 10;
+		margin-top: 10px;
 		width: 100%;
 		font-size: 15px;
+		padding: 10px 0px 5px 0px;
 	}
 
 	.our-team {
     	margin: 10px;
-    	width: 100%;
+    	width: auto;
 	}
 	.team-member-1{
-		width: 100%;
+		width: auto;
 	}
 
 	.map{
