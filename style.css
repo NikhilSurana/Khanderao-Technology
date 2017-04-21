@@ -63,7 +63,7 @@ a{
 
 .services-1 > img{
 	height: 224px;
-	width: 300px;
+	width: auto;
 }
 
 .img-text{
@@ -107,12 +107,13 @@ h3{
 .about_us_containt > h1{
 	font-size: 55px;
 	font-family: 'Monotype Cursiva';
-	padding: 25px 100px 25px 250px;
+	text-align: center;
 	color: red;
 }
 
 .about_us_containt{
-	background: radial-gradient( cyan, white);
+	width: 90%;
+	margin: 0 auto;
 }
 
 .about_us_text{
@@ -124,6 +125,7 @@ h3{
 .about_us_text > p{
 	font-size: 20px;
 	line-height: 1.5;
+	padding: 5px;
 	display: inline-block;
 }
 .our-team{
@@ -177,4 +179,8 @@ h3{
 .address > div{
 	padding: 153px 30px 69px 87px;
 	font-size: 25px;
+}
+
+.map-small-frame{
+	display: none;
 }
