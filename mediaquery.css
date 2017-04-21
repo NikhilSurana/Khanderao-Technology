@@ -10,9 +10,7 @@
 		width: 83%;
 		padding: 0px 26px;
 	}
-	.services-1 > img{
-		width: 321px;
-	}
+	
 	.img-text > h3{
 		font-size: 19px;
 	}
@@ -51,9 +49,12 @@
 		width: 100%;
 	}
 
-	.map > iframe{
-		width: 453px;
-		height: 330px;
+	.map{
+		display: none;
+	}
+
+	.map-small-frame{
+		display: block;
 	}
 	.address{
 		width: 100%;
@@ -86,9 +87,7 @@
     	width: 82%;
 		padding: 0px 17px;
 	}
-	.services-1 > img{
-		width: 270px;
-	}
+	
 	.hdd-recovery > h2{
 		padding: 25px 25px 25px 8px;
 		font-size: 20px;

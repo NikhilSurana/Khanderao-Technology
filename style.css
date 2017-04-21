@@ -63,7 +63,7 @@ a{
 
 .services-1 > img{
 	height: 224px;
-	width: 300px;
+	width: auto;
 }
 
 .img-text{
@@ -177,4 +177,8 @@ h3{
 .address > div{
 	padding: 153px 30px 69px 87px;
 	font-size: 25px;
+}
+
+.map-small-frame{
+	display: none;
 }
